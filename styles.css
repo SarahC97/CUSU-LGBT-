@@ -1,6 +1,9 @@
 .jumbotron h1 {
-    color: #230666;
+    background: linear-gradient(to right, orange , yellow, green, cyan, blue, violet);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;;
 }
 #grad {
   background: linear-gradient(to bottom right, red, yellow);
 }
+  color: #230666
